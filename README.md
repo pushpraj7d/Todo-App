@@ -1,5 +1,5 @@
 # To-Do App
-[Click here to view the project](https://yourusername.github.io/repository-name/)
+[Click here to view the project](https://github.com/pushpraj7d/Todo-App)
 
 ## Overview
 The **To-Do App** is a simple and interactive web application that allows users to add, manage, and delete tasks efficiently. The goal of the application is to help users stay organized and boost productivity.
